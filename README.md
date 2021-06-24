@@ -2,7 +2,7 @@
 
  This repository is about creating a control panel web page for controlling the robots movements by 5 buttons (Forward, Backward, Stop, Left, Right) , and there is 6 subTasks:
 
- 1. Create Interface for controlling the robot base movement, using HTML language with JavaScript.
+ 1. Create Interface for controlling the robot base movement, using HTML language with CSS.
  2. Create Database using Php language with SQL.
  3. Connect Database with the interface.
  4. Create Php page to connect data base with hardware.
